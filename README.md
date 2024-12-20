@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**sargunesh25/sargunesh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👋 **Hi, I’m SARGUNESH SV!****
+🎯 Continuous improvement is better than delayed perfection.
+**🌟 **About Me****
+Hi! I’m _SAGRUNESH S V_, 
+A passionate _Software Developer_ who loves building Web Applications, Mobile apps, or Open-source tools.
 
-Here are some ideas to get you started:
+🧠 I’m currently learning: Backend Technologies.
+💻 I work with: C, Python, Java, React, c++.
+🚀 I’m passionate about: Open Source, AI.
+📫 How to reach me: sargunesh.cs23@bitsathy.ac.in.
+📊 GitHub Stats : 18 Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**💼 Skills**
+_Programming Languages_
+1. C
+2. Python
+3. Java
+4. c++
+_Frameworks & Tools_
+1.REACT
+**📚 Projects**
+Check out some of my featured projects:
+
+🔗_ Weather Application_
+ Integrated Open Weather API Using Javascript and built Responsive Weather Website 
+
+🔗 _Educity_
+Educational Platform Website with Responsive Design And Built With React Framework
+
+🌍 **Connect With Me**
+Let’s collaborate or chat! Find me here:
+
+💼 linkedin.com/in/sargunesh2507
+--
+
+Feel free to customize this for your style and personality! Would you like me to adapt it further?
