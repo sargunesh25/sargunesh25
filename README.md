@@ -1,8 +1,7 @@
 
-**👋 **Hi, I’m SARGUNESH SV!****
-🎯 Continuous improvement is better than delayed perfection.
 **🌟 **About Me****
-Hi! I’m _SAGRUNESH S V_, 
+**Hi! I’m _SAGRUNESH S V_, **
+
 A passionate _Software Developer_ who loves building Web Applications, Mobile apps, or Open-source tools.
 
 🧠 I’m currently learning: Backend Technologies.
